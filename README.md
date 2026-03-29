@@ -1,8 +1,8 @@
 # 📘 Digital Literacy Portfolio
 
-Name:Arun Chaudhary
-Registration Number: 25BCE10971
-Course: CSE0001 Digital Literacy  
+Name:Arun Chaudhary <br>
+Registration Number: 25BCE10971<br>
+Course: CSE0001 Digital Literacy  <br>
 University: VIT Bhopal University  
 
 ---
@@ -49,10 +49,10 @@ The repository is divided into the following sections:
 
 ## 🔗 Important Links
 
-GitHub Profile: https://github.com/arun29064815
-LinkedIn: https://www.linkedin.com/in/arun-chaudhary-9b9547363
-HackerRank: https://www.hackerrank.com/profile/arun29064815
-Google Form: https://docs.google.com/forms/d/1qedOe1Ug5Mus4WYFSTErrC8gCI__ZS9QCTIO-s9c-1Q/edit
+GitHub Profile: https://github.com/arun29064815 <br>
+LinkedIn: https://www.linkedin.com/in/arun-chaudhary-9b9547363 <br>
+HackerRank: https://www.hackerrank.com/profile/arun29064815 <br>
+Google Form: https://docs.google.com/forms/d/1qedOe1Ug5Mus4WYFSTErrC8gCI__ZS9QCTIO-s9c-1Q/edit <br>
 
 ---
 
